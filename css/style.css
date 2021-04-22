@@ -1469,12 +1469,9 @@ footer {
     width: auto;
 
   }
-
-}
-
-
-@media (max-width: 992px) {
+  
   .donation_cards {
-    width: 300px;
-}
+    width: auto;
+  }
+
 }
