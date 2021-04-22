@@ -1475,3 +1475,11 @@ footer {
   }
 
 }
+
+
+@media (max-width: 481px) {
+.donation__final--konto {
+  padding: 10px 50px;
+  
+}
+}
